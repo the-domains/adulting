@@ -1,0 +1,28 @@
+name: adulting
+favicon: null
+layout_spectrum: 0.18563620001077652
+typography_spectrum: 0.00628662365488708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9271955394651741
+  lightness: 0.45431609195657074
+  saturation: 0.9599065738730133
+  rhythmicContrast: 0.37759120436385274
+purpose: []
